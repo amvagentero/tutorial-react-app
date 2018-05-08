@@ -1,0 +1,8 @@
+{
+  "name": "tutorial-react-app",
+  "version": "1.0.0",
+  "description": "alex is learning by example, leave him alone",
+  "main": "index.js",
+  "author": "alejandroiddev",
+  "license": "MIT"
+}
